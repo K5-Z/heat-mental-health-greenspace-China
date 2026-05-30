@@ -1,7 +1,7 @@
 # Green space-facilitated cooling mitigates heat-related mental health risk: National, high spatiotemporal-resolution evidence from China
 This repository provides **demo code and example datasets** used to reproduce the analytical workflow in the study:
 
-**Green space-facilitated cooling mitigates heat-related mental ill-health: National, high spatiotemporal-resolution evidence from China**
+**Green space-facilitated cooling mitigates heat-related mental health risk: National, high spatiotemporal-resolution evidence from China**
 
 The code demonstrates the core analytical pipeline used in the study, including:
 
