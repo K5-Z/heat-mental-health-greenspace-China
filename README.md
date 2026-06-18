@@ -151,4 +151,4 @@ For questions regarding the code or data access requests, please contact the cor
 
 If you use this code in your research, please cite:
 
-Green space-facilitated cooling mitigates heat-related mental ill-health: National, high spatiotemporal-resolution evidence from China
+Green space-facilitated cooling mitigates heat-related mental health risk: National, high spatiotemporal-resolution evidence from China
